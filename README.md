@@ -1,5 +1,5 @@
-# test-assertj-DB
-simple example of usage of assertj-DB library
+# Test-assertj-DB project
+This is a list of simple examples of usage of assertj-DB library
 
 # Links
 Article in French
